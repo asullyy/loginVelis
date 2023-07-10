@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/loginVelis/static/css/main.9640d66a.css",
+    "main.js": "/loginVelis/static/js/main.c9bcc27e.js",
+    "static/media/voltaraologin@3x.png": "/loginVelis/static/media/voltaraologin@3x.f63afcddfb1df053c0b4.png",
+    "index.html": "/loginVelis/index.html",
+    "main.9640d66a.css.map": "/loginVelis/static/css/main.9640d66a.css.map",
+    "main.c9bcc27e.js.map": "/loginVelis/static/js/main.c9bcc27e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9640d66a.css",
+    "static/js/main.c9bcc27e.js"
+  ]
+}
