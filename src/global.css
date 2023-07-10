@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --title-medium: Hind;
+  --font-bai-jamjuree: "Bai Jamjuree";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --title-medium-size: 16px;
+  --font-size-31xl: 50px;
+  --title-small-size: 14px;
+  --font-size-xs: 12px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray-100: #49454f;
+  --font-color: #343434;
+  --on-tertiary-container: #06b1f7;
+  --tertiary-color: #42edff;
+  --color-slateblue-100: #7f46b6;
+  --color-slateblue-200: rgba(127, 70, 182, 0.1);
+  --color-gray-100: #79747e;
+  --color-gray-200: #1d1b20;
+  --color-gray-300: rgba(255, 255, 255, 0.2);
+  --error: #ec1d1d;
+  --color-red-100: #ea1515;
+  --m3-sys-light-primary: #6750a4;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-2xs: 11px;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+  --padding-base: 16px;
+  --padding-5xs: 8px;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-481xl: 500px;
+  --br-9xs: 4px;
+  --br-81xl: 100px;
+
+  /* Effects */
+  --level-3: 0px 3px 5px rgba(0, 0, 0, 0.2);
+}
